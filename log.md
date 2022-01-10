@@ -1,30 +1,23 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: Sunday January 9, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Goals for 100 Days of Code**
+- Solidify understanding of HTML, CSS, and JS
+- Build out professional portfolio of work using these languages
+- Master use of coding tools like Visual Studio Code, Git Bash, Github as a social platform, etc
+- Participate in online communities related to coding
+- Learn more about open source projects and how I can contribute as I grow as a coder 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: 
+- Committed to #100DaysOfCode challenge 
+- Created a GitHub account
+- Made a README.md file for my profile
+- Learned about Git, Bash, & the GitHub desktop client & how they interface with VSC to maximize collaboration potential
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Since I'm very new to coding, much of what I did today was brand new & foundational. I am learning the ins and outs of the tools I need to use (like Visual Studio Code, GitHub, etc) which I'm hoping will help me learn the ins and outs of the languages, how they get used, and how to use them in collaboration with others in a more effective way. I've never coded an MD file before, so I used codeSTACKr's template from [this video](https://www.youtube.com/watch?v=ECuqb5Tv9qI) to help me get started.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+Over the course of the next 100 days, my goal is to solidify my understanding
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Link to work:** [README.md for GitHub Profile](https://github.com/amy-upthagrove)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
