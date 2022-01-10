@@ -8,7 +8,7 @@
 - Did research on and started to embed the artist's twitch stream onto the homepage (does not work yet)
 - Played with background colors, text hover functionality, and used the box model to lay out elements in CSS
 
-**Thoughts** As I get better at using the tools (in this case, Visual Studio Code and Github), I think the whole process will get easier. I'm not sure why the livestream tie-in doesn't work yet, but I'll continue to research and experiment with it. Getting practice with the box model was really good for me, and I'm going to continue practicing HTML/CSS fundamentals in this build until I totally have my mind wrapped around the concepts. In my apprenticeship training, I struggled a bit with the concept of the box model, but now that I've had the chance to practice and play with it, I feel a lot more confident in this and other HTML/CSS fundamentals.  
+**Thoughts**: As I get better at using the tools (in this case, Visual Studio Code and Github), I think the whole process will get easier. I'm not sure why the livestream tie-in doesn't work yet, but I'll continue to research and experiment with it. Getting practice with the box model was really good for me, and I'm going to continue practicing HTML/CSS fundamentals in this build until I totally have my mind wrapped around the concepts. In my apprenticeship training, I struggled a bit with the concept of the box model, but now that I've had the chance to practice and play with it, I feel a lot more confident in this and other HTML/CSS fundamentals.  
 
 **Link to Work** [June Gloom Website Project](https://github.com/amy-upthagrove/June-Gloom-Website)
 
