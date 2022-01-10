@@ -17,7 +17,7 @@
 
 **Thoughts:** Since I'm very new to coding, much of what I did today was brand new & foundational. I am learning the ins and outs of the tools I need to use (like Visual Studio Code, GitHub, etc) which I'm hoping will help me learn the ins and outs of the languages, how they get used, and how to use them in collaboration with others in a more effective way. I've never coded an MD file before, so I used codeSTACKr's template from [this video](https://www.youtube.com/watch?v=ECuqb5Tv9qI) to help me get started.
 
-Over the course of the next 100 days, my goal is to solidify my understanding
+I'm very excited to continue making and sharing my work. It's only day 0 and I've already learned a lot of new information!
 
 **Link to work:** [README.md for GitHub Profile](https://github.com/amy-upthagrove)
 
