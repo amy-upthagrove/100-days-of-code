@@ -1,4 +1,15 @@
 # 100 Days Of Code - Log
+
+### Day 2: Tuesday January 11, 2022
+
+**Today's Progress**:
+- Built a button clicker counter with a reset button using JS, HTML, & CSS
+- Started building a form that populates a card with user input (incomplete)
+- Used Bootstrap for HTML/CSS framework templates for the first time on both the clicker counter and the form
+- Did more research on git and GitHub
+
+**Thoughts**: I'm finding that completing short projects that test specific skills/ functionality works really well for my learning style because it quickly reveals where I need to direct my focus the most. Today, I found myself getting stuck on some fundamentals of how the DOM works and remembering which syntax to use where. I think it would be helpful for me to start compiling a reference sheet with examples of syntax I find myself frequently using - at least until I have a deeper grasp on how the concepts actually work in practice. 
+
 ### Day 1: Monday January 10, 2022
 
 **Today's Progress**:
