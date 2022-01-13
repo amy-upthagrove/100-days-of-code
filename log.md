@@ -26,6 +26,8 @@
 
 **Thoughts**: I'm finding that completing short projects that test specific skills/ functionality works really well for my learning style because it quickly reveals where I need to direct my focus the most. Today, I found myself getting stuck on some fundamentals of how the DOM works and remembering which syntax to use where. I think it would be helpful for me to start compiling a reference sheet with examples of syntax I find myself frequently using - at least until I have a deeper grasp on how the concepts actually work in practice. 
 
+---
+
 ### Day 1: Monday January 10, 2022
 
 **Today's Progress**:
@@ -39,6 +41,7 @@
 
 **Link to Work** [June Gloom Website Project](https://github.com/amy-upthagrove/June-Gloom-Website)
 
+---
 
 ### Day 0: Sunday January 9, 2022
 
