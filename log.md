@@ -14,6 +14,8 @@
 - [Destination Tracker Project](https://github.com/amy-upthagrove/destination-tracker-project)
 - [w3 JS basic exercises](https://github.com/amy-upthagrove/w3-JS-exercises)
 
+---
+
 ### Day 2: Tuesday January 11, 2022
 
 **Today's Progress**:
