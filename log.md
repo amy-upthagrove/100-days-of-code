@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 3: Wednesday January 12, 2022
+
+**Today's Progress**:
+- Continued working on the form that populates a card, stuck on the form submission triggering card info creation/ population
+- Wrote a JavaScript program to display the current day and time in the console log and started to use the JS program to make a day and time clock that displays on an HTML document
+- Started brushing up on flex boxes in CSS by reading [THIS ARTICLE](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+**Thoughts**: I am still getting the hang of the basic conventions of JS, and I just need to keep plugging away at internalizing the concepts so that applying them comes more naturally. Figuring out the logic for the current day and time took me a long time and I got some help from the [W3 JS Basics Exercise Solution](https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-1.php)
+
+**Links to Work**
+
+[Destination Tracker Project](https://github.com/amy-upthagrove/destination-tracker-project)
+[w3 JS basic exercises](https://github.com/amy-upthagrove/w3-JS-exercises)
+
 ### Day 2: Tuesday January 11, 2022
 
 **Today's Progress**:
