@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 4: Thursday January 13, 2022
+
+**Today's Progress**
+
+- did a [deep dive on REST APIs](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
+-  made a button that when clicked makes a random kanye west quote display on the page, sourced from the [kanye rest api](https://kanye.rest/)
+-  made good progress on my Vacation Destination form/display card - filling out the form and hitting submit now creates a bootstrap card displaying the form input, which includes text fields and image urls
+-  while reading about REST APIs, I discovered a rabbit hole I want to go down soon: [building a Simple CRUD app with Node, Express, and MongoDB](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
+
+**Thoughts** I feel like I am learning so much every day, and the most important thing that I learn is what I don't know. It's really exciting to start seeing the big picture and how each component works individually/ interfaces with each other. APIs are sort of mind blowing - I didn't know what they were before today but now I see how they are pretty much everywhere, making the online world work (ie paypal transactions, google map integrations into things like uber, gif keyboards, etc).
+
+---
+
 ### Day 3: Wednesday January 12, 2022
 
 **Today's Progress**:
