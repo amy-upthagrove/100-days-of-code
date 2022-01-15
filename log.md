@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 5: Friday, January 14, 2022
+
+**Today's Progress**
+
+- Started making myself cheat sheets for frequently used Git Bash cmds, VS code hotkeys, and useful JS syntax
+- Gave my brain a little break from writing code in a brand new langauge and revisted [Sonic Pi](https://sonic-pi.net/), a live code synth instrument. Made it about halfway through the tutorial to brush up. Looking forward to playing with this more after taking a little sabbatical from making music this way.
+- completed a gif finder using HTML, JS, and Tenor Gif API
+- Spent a lot of time reviewing my notes from the past week of my apprenticeship training
+
+**Thoughts**: Whoops! Forgot to post my log yesterday, it was a tiring first week of JS/React training. I can't believe how much information I've absorbed in such a short period of time. Doing this challenge while taking this apprenticeship training is definitely not easy, but making the time for it has forced me to make sure I'm deepening my understanding of the many concepts and skills we're learning. Doing this challenge also helps me identify my opportunities for improvement. Based on that, throughout the next week or so, I plan on focusing on the Inspector/ Console (and how I can use it more effectively for debugging), Git and GitHub (solidify understanding of how to use the Git terminal to tie into GitHub for effective collaboration). and specific JS syntax that I need to be able to write more readily/ quickly (at the moment, I am a very slow coder but I'd like to get faster while maintaining accuracy).
+
 ### Day 4: Thursday January 13, 2022
 
 **Today's Progress**
