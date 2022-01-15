@@ -11,6 +11,8 @@
 
 **Thoughts**: Whoops! Forgot to post my log yesterday, it was a tiring first week of JS/React training. I can't believe how much information I've absorbed in such a short period of time. Doing this challenge while taking this apprenticeship training is definitely not easy, but making the time for it has forced me to make sure I'm deepening my understanding of the many concepts and skills we're learning. Doing this challenge also helps me identify my opportunities for improvement. Based on that, throughout the next week or so, I plan on focusing on the Inspector/ Console (and how I can use it more effectively for debugging), Git and GitHub (solidify understanding of how to use the Git terminal to tie into GitHub for effective collaboration). and specific JS syntax that I need to be able to write more readily/ quickly (at the moment, I am a very slow coder but I'd like to get faster while maintaining accuracy).
 
+I'm glad I took some time to get reacquainted with Sonic Pi. I love this tool. I started using it about 2 years ago to prepare for learning Crestron (room/ AV automation control system software) Programming at a previous job. Since I had never coded before, I wanted to learn the standard conventions of coding logic & structure in a fun way. Sonic Pi really helped prime me for better understanding and I even made an [entire concept album](https://junegloomwi.bandcamp.com/album/low-level-drifts) using the program.
+
 ### Day 4: Thursday January 13, 2022
 
 **Today's Progress**
