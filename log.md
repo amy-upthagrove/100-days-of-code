@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 6: Saturday, January 15, 2022
+
+**Today's Progress**
+
+- Reviewed concepts including the DOM, eventListeners, API's, flex boxes, and directories
+- Practiced Git Bash terminal commands, focusing on using the terminal to navigate directories, add files to repositories, and to push/ pull from main branches on GitHub repositories from the Bash terminal
+- Read through the intro sections of [The Modern JavaScript Tutorial(https://javascript.info/)
+
+**Thoughts**: The more comfortable I get with using Git Bash commands in the terminal to interface with GitHub repositories, the more I see advantages to using the terminal to manage files. I'm looking forward to more opportunities to use GitHub in collaboration with other people. Although I didn't really make anything with code today, I'm glad I got a chance to get more comfortable with the terminal. I can now use cd commands to comfortably move forward and backwards through directories, ls to get info on specific directories, and git commands to get repo info, track previous commits, add files, add orign from remote to local terminal, and create/ commit branches.
+
+---
+
 ### Day 5: Friday, January 14, 2022
 
 **Today's Progress**
