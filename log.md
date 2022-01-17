@@ -1,12 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 7: Monday, January 17, 2022
+
+**Today's Progress**
+
+- Continued reading through [The Modern JavaScript Tutorial](https://javascript.info/) - focused on coding structures section
+- Completed Codecademy's lesson on functions, which covered functions, returns, function expressions, and arrow functions
+- Started working on an image getter project where user can do an image search and an image from Unsplash's API will appear on the page.
+
+**Thoughts**: I am starting to get the hang of some basic JS syntax. Writing code without a guideline for how it should be structured is getting easier for me. I know the more I practice, I'll get even faster and smoother. Functions are really cool, they seem to be the brains behind using JS for a lot of logic and calculations. I want to continue practicing defining functions so I can write more complex calculations and arguments in a streamlined way. Since functions are a major part of most JS code I've worked with, I know I'll easily achieve my goal of getting faster and figuring out the syntax since I'll use them a lot.
+
+---
+
 ### Day 6: Saturday, January 15, 2022
 
 **Today's Progress**
 
 - Reviewed concepts including the DOM, eventListeners, API's, flex boxes, and directories
 - Practiced Git Bash terminal commands, focusing on using the terminal to navigate directories, add files to repositories, and to push/ pull from main branches on GitHub repositories from the Bash terminal
-- Read through the intro sections of [The Modern JavaScript Tutorial(https://javascript.info/)
+- Read through the intro sections of [The Modern JavaScript Tutorial](https://javascript.info/)
 
 **Thoughts**: The more comfortable I get with using Git Bash commands in the terminal to interface with GitHub repositories, the more I see advantages to using the terminal to manage files. I'm looking forward to more opportunities to use GitHub in collaboration with other people. Although I didn't really make anything with code today, I'm glad I got a chance to get more comfortable with the terminal. I can now use cd commands to comfortably move forward and backwards through directories, ls to get info on specific directories, and git commands to get repo info, track previous commits, add files, add orign from remote to local terminal, and create/ commit branches.
 
