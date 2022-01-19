@@ -1,10 +1,26 @@
 # 100 Days Of Code - Log
 
+### Day 8: Tuesday, January 18, 2022
+
+**Today's Progress**
+
+- Continued working on image getter project - made some progress, still working on correctly autheticating my user key. 
+- Reviewed fetch() and then() methods
+- Continued reading through [The Modern JavaScript Tutorial](https://javascript.info/) - focused on type conversions and basic operators/ math
+
+**Thoughts**: Today I hit a road block with the image getter project. I wasn't expecting to take so long figuring out the authetication key, but that's ok. I'm sure once I figure out why it's not working, I'll remember the solution more readily when I run into it again in the future. It was good that my troubleshooting forced me to dive deeper into the fetch() and then () methods. This reading led me down a rabbit hole of "promises" and "asychronous calculations" - which seem super cool, even though I don't totally understand how to use these concepts yet. 
+
+**Link to Work**:
+
+[Image Getter](https://github.com/amy-upthagrove/100-days-of-code-projects/tree/main/imageGetter)
+
+---
+
 ### Day 7: Monday, January 17, 2022
 
 **Today's Progress**
 
-- Continued reading through [The Modern JavaScript Tutorial](https://javascript.info/) - focused on coding structures section
+- Continued reading through [The Modern JavaScript Tutorial](https://javascript.info/) - focused on coding structures, strict mode, variables, data types, and alerts/prompts
 - Completed Codecademy's lesson on functions, which covered functions, returns, function expressions, and arrow functions
 - Started working on an image getter project where user can do an image search and an image from Unsplash's API will appear on the page.
 
