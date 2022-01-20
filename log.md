@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 9: Wednesday, January 19, 2022
+
+**Today's Progress**
+
+- Finished the image getter project with a little help from one of my apprenticeship training classmates. I was using the wrong API key :/
+- Continued reading through [The Modern JavaScript Tutorial](https://javascript.info/) - focused on comparisons and conditional branching
+- Practiced git terminal commands with an emphasis on creating and merging branches, and pushing/ pulling to/from remote repositories
+
+**Thoughts**: So glad I finally finished the image getter and that the solution was relatively simple. Digging deeper into APIs and how to fetch them helped shed more light on promises, which I stumbled across last night. It feels really good to build on new knowledge so steadily! 
+
+**Link to Work**:
+
+[Image Getter](https://github.com/amy-upthagrove/100-days-of-code-projects/tree/main/imageGetter)
+
+---
+
 ### Day 8: Tuesday, January 18, 2022
 
 **Today's Progress**
