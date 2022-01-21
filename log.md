@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 10: Thursday, January 20, 2022
+
+**Today's Progress**
+
+:heavy_check_mark: Read more [The Modern JavaScript Tutorial](https://javascript.info/) - focus on logical operators, completed all tasks for chapter
+:heavy_check_mark: Practiced git bash commands - focus on setting up a remote repository on GitHub from the git terminal 
+:heavy_check_mark: worked on longterm project - [June Gloom Website](https://amy-upthagrove.github.io/June-Gloom-Website/) - started adding a toggleable tab menu and experimented with CSS layout rules
+:heavy_check_mark: unwound by practicing some [Sonic Pi](https://sonic-pi.net/) livecoding - focused on using samples, pulling samples from local directories, setting up loops, and randomization 
+
+**Thoughts** I had a little more time to focus on this challenge than I have the past few nights, so I feel like I covered a lot of ground but had a lot of fun doing it. After pushing through the Modern JS Tutorial exercises, I realized I need to practice logic a little more. I'm not used to thinking in such a concise way but the more I practice, the more it will make sense. 
+
+Also, I'm still not totally confident in my use of git bash commands, but the more I practice, the easier it will get. I'm challenging myself to use the terminal and remote repositories with each coding project I work on so I get more comfortable with it every time. I need to take some time to wrap my mind around the documentation for adding toggleable tabs, because I've got some bugs that I don't understand yet. 
+
+I had a lot of fun playing around with Sonic Pi tonight. The randomization parameters you can set on pretty much any attribute makes simple code sound fascinating. I took inspiration from the [Healing Vibrations Singing Bowl Videos](https://www.youtube.com/c/HealingVibrationsMedia) I wake up to most mornings. Adding a weird digital sounding effect to the randomly pitched and timed bell sample intermittently takes the sound to a weird place, but I think it's fun. Copy/ paste/ run the code linked below into any Sonic Pi terminal to hear what it sounds like!
+
+**Links to Work**
+
+[June Gloom Website](https://amy-upthagrove.github.io/June-Gloom-Website/)
+[Weird Random Bells - Sonic Pi](https://github.com/amy-upthagrove/100-days-of-code-projects/blob/main/sonic%20pi%20jams/weird-random-bells.txt)
+
+---
+
 ### Day 9: Wednesday, January 19, 2022
 
 **Today's Progress**
