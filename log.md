@@ -21,6 +21,7 @@ I had a lot of fun playing around with Sonic Pi tonight. The randomization param
 **Links to Work**
 
 [June Gloom Website](https://amy-upthagrove.github.io/June-Gloom-Website/)
+
 [Weird Random Bells - Sonic Pi](https://github.com/amy-upthagrove/100-days-of-code-projects/blob/main/sonic%20pi%20jams/weird-random-bells.txt)
 
 ---
