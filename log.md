@@ -4,9 +4,12 @@
 
 **Today's Progress**
 
-:heavy_check_mark: Read more [The Modern JavaScript Tutorial](https://javascript.info/) - focus on logical operators, completed all tasks for chapter
-:heavy_check_mark: Practiced git bash commands - focus on setting up a remote repository on GitHub from the git terminal 
-:heavy_check_mark: worked on longterm project - [June Gloom Website](https://amy-upthagrove.github.io/June-Gloom-Website/) - started adding a toggleable tab menu and experimented with CSS layout rules
+:heavy_check_mark: Read more [The Modern JavaScript Tutorial](https://javascript.info/) - focus on logical operators, completed all tasks for chapter  
+
+:heavy_check_mark: Practiced git bash commands - focus on setting up a remote repository on GitHub from the git terminal  
+
+:heavy_check_mark: worked on longterm project - [June Gloom Website](https://amy-upthagrove.github.io/June-Gloom-Website/) - started adding a toggleable tab menu and experimented with CSS layout rules  
+
 :heavy_check_mark: unwound by practicing some [Sonic Pi](https://sonic-pi.net/) livecoding - focused on using samples, pulling samples from local directories, setting up loops, and randomization 
 
 **Thoughts** I had a little more time to focus on this challenge than I have the past few nights, so I feel like I covered a lot of ground but had a lot of fun doing it. After pushing through the Modern JS Tutorial exercises, I realized I need to practice logic a little more. I'm not used to thinking in such a concise way but the more I practice, the more it will make sense. 
