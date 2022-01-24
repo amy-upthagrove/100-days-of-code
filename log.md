@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 11: Sunday, January 23, 2022
+
+**Today's Progress**
+
+- Read about & practiced the following HTML/CSS concepts: the box model, flex boxes, & responsive design
+- Continued playing with the HTML/CSS for the toggleable tab menu on the June Gloom website
+- Started building out a blog from scratch - set up header, nav bar, cards for blog posts, and a two-column layout using the float property
+
+**Thoughts:** After dedicating a full hour to playing with CSS positioning rules, I finally feel confident in my grasp of the box model and how to float elements to create multi-column layouts. Although I started out working off the W3 template for responsive blog design, I took the time to examine each line of the template to make sure I could write it on my own. 
+
+I'm looking forward to adding additional elements to the blog, like expandable/ collapsable posts, ways to foster user engagement (like a favorite button or comment section), and more interesting styling. I'm going to try to add one function to the blog each coding session I have.
+
+**Links to Work:**
+
+[Field Guide for the Sound Mind - Blog](https://amy-upthagrove.github.io/field-guide/)
+
 ### Day 10: Thursday, January 20, 2022
 
 **Today's Progress**
