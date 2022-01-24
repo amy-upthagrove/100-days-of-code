@@ -16,6 +16,8 @@ I'm looking forward to adding additional elements to the blog, like expandable/ 
 
 [Field Guide for the Sound Mind - Blog](https://amy-upthagrove.github.io/field-guide/)
 
+---
+
 ### Day 10: Thursday, January 20, 2022
 
 **Today's Progress**
