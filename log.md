@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 12: Monday, January 24, 2022
+
+**Today's Progress**
+
+- made first blog post, which included a responsive gif image, a read more button to access the full post, an accordion w collapseable content, LOTS of links that open in new tabs
+- wrote a LOT of html and css, and a little bit of javascript - used span tags, buttons with associated events
+- flew too close to the sun while trying to add a css animated hover state to the "Read more" button
+- attempted (unsuccessfully) to revert to an earlier commit from the terminal
+- learned how to revert to an earlier commit from the GitHub Desktop app from [this guide](https://jcszamosi.github.io/mcmaster_swc_git_gui/06-history/) I found from a quick google search
+
+**Thoughts:** I made a lot of progress today and got a lot of great practice in. Since I've been focusing so much on learning JS, it was nice to get some reps in with figuring out how to adjust style rules and HTML tags to get things looking the way I want them to. I went down quite a few rabbit holes but feel like they were all worth it.
+
+**Link to Work**
+
+[Field Guide for the Sound Mind - Blog](https://amy-upthagrove.github.io/field-guide/)
+
+---
+
 ### Day 11: Sunday, January 23, 2022
 
 **Today's Progress**
