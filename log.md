@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 13: Monday, January 31, 2022
+
+**Today's Progress**
+
+- practiced git bash commands for compiling and executing a simple java program
+- completed "Hello World" section of Java course on Codecademy
+- practiced creating Java classes and defining methods
+- explored the IntelliJ IDE
+
+**Thoughts** Feels good to be back! Last week at my apprenticeship, we started learning Java and I didn't have much time to code outside of class. I'm going to continue practicing HTML, CSS, and Javascript during these coding sessions, but the next few days I will be hitting Java hard to make sure I'm keeping pace with my course. We use IntelliJ in class for Java and I still need to learn my way around this tool. 
+
+---
+
 ### Day 12: Monday, January 24, 2022
 
 **Today's Progress**
