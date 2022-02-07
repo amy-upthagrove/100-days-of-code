@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 14: Sunday, February 6, 2022
+
+**Today's Progress**
+
+- practiced creating class, setting properties, and calling methods in Java
+- learned & practiced some shorts & hotkeys in IntelliJ IDE
+- studied iteration statements (do, do/while, for)
+
+**Thoughts** I am excited that I am starting to gain a deeper understanding of the basic concepts of Java. The basics of object oriented programming - such as the way that properties (data) and methods (behaviors) are stored in an object - are starting to make more sense. I'm looking forward to getting past the fundamentals and into the applications of actually using Java to make interactive applications and programs.
+
 ### Day 13: Monday, January 31, 2022
 
 **Today's Progress**
